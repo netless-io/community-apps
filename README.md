@@ -37,6 +37,6 @@ fastboard.manager.addApp({ kind: SomeApp.kind });
 
 
 ## 进一步沟通
-在[Issue](https://github.com/netless-io/community-apps/issues)发起沟通。
-在[声网开发者社区](https://rtcdeveloper.agora.io/c/ask/128)发帖，发帖时选择“rte2022编程大赛”标签。
+- 在[Issue](https://github.com/netless-io/community-apps/issues)发起沟通。
+- 在[声网开发者社区](https://rtcdeveloper.agora.io/c/ask/128)发帖，发帖时选择`“rte2022编程大赛”`标签。
 
