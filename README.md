@@ -12,4 +12,4 @@
 
 请确保你是这个 app 的作者，并且上方的链接可以正确打开你的项目。
 
-如果你不知道如何开始编写 Netless App，可以参考使用 [App 模版](https://github.com/netless-io/community-app-template)。
+如果你不知道如何开始编写 Netless App（互动白板插件），可以参考使用 [App 模版](https://github.com/netless-io/community-app-template)。
