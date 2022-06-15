@@ -17,7 +17,7 @@ TicTacToe 互动小游戏 | [Leooeloel/TicTacToe](https://github.com/Leooeloel/T
 
 ### 方案一：通过模板快速开始
 
-「Netless App 模版](https://github.com/netless-io/community-app-template)快速开始。
+[Netless App 模版](https://github.com/netless-io/community-app-template) 快速开始。
 
 ### 方案二：开发自定义 APP
 
