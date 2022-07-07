@@ -8,7 +8,7 @@
 | ------------------------------------------------------------------------- | ----------------------------------- |
 | [TicTacToe 互动小游戏](https://github.com/Leooeloel/TicTacToe/tree/react) | 基于模版开发的 TicTacToe 互动小游戏 |
 
-关于[「RTE 2022 编程挑战赛」](#)
+关于[「RTE 2022 编程挑战赛」](https://www.agora.io/cn/rte-hackathon-2022)
 
 ## 如何让你的 App 也出现在这里
 
