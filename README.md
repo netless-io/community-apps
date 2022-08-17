@@ -1,39 +1,46 @@
-# Community Netless Apps
+# PK-Game
 
-如果你不知道如何开始编写 Netless App，可以参考使用 [App 模版](https://github.com/netless-io/community-app-template)。
+## 插件介绍
+PK-Game是基于模版开发的一款多人互动PK游戏。该游戏有一个固定的角色，即出题者，其他的参与者即为参与者。出题者设置题目及其答案，参与者参与答题。
 
-## 「RTE 2022 编程挑战赛」作品 App 列表
+PK-GAME可以适用于声网Netless互动白板的插件，可以为老师，学生教学所使用。
 
-| 作品名(仓库地址)                                                          | 简介                                |
-| ------------------------------------------------------------------------- | ----------------------------------- |
-| [TicTacToe 互动小游戏](https://github.com/Leooeloel/TicTacToe/tree/react) | 基于模版开发的 TicTacToe 互动小游戏 |
-| [MidiBoard](https://github.com/CorpDreams/app-midi-board) | MidiBoard - 音乐白板: 在线协同MIDI音乐制作App |
+## 安装方法
 
-关于[「RTE 2022 编程挑战赛」](https://www.agora.io/cn/rte-hackathon-2022)
+1. 访问[声网Workshop](https://workshop.netless.link/)获取临时配置环境用于测试
 
-## 如何让你的 App 也出现在这里
+2. 将本仓库clone到本地并进入根目录
+    ```
+    git clone https://github.com/CorpDreams/app-midi-board.git
+    cd app-midi-board
+    ```
 
-如果想在[「RTE 2022 编程挑战赛」作品 App 列表](#rte-2022-编程挑战赛作品-app-列表) 中添加你的 App，请向本仓库提交 Pull Request，编辑本 README 并按照格式添加一个项目到上面的表中，
+3. 复制根目录下的`.env.example`并重命名为`.env`后，分别填写文件中的`VITE_APPID`, `VITE_ROOM_UUID` 和 `VITE_ROOM_TOKEN`为刚刚获取的临时环境
 
-注：**请确保你是这个 app 的作者或者有权限这么做，并且添加的链接可以正确访问项目。对于优秀的参赛作品可以赢取大奖并且也有机会进入主仓库，把你的作品展示给更多的人。**
+    也可直接使用以下测试用环境（不保证最新可用）：
+    ```
+    # Whiteboard SDK App ID
+    VITE_APPID=ss4WoMf_EeqfCXcv33LmiA/izfIC88inXYJKw
 
-## 如何使用 App
+    # Whiteboard Room UUID
+    VITE_ROOM_UUID=c1063fe01d4311ed924cff6ad50661b2
 
-```js
-import SomeApp from "some-app";
-import { register } from "@netless/fastboard";
+    # Whiteboard Room Token
+    VITE_ROOM_TOKEN=NETLESSROOM_YWs9VWtNUk92M1JIN2I2Z284dCZleHBpcmVBdD0xNjYzMjMzMjM1OTE2Jm5vbmNlPWMxMmE5MGMwLTFkNDMtMTFlZC1iZWMyLWNiNTUzMjEwMzFlYSZyb2xlPTEmc2lnPWU0MTVmMmZlM2Y0OWUzYTM0YmYyM2IyODIyNDYyOGJkYmQ0MDM2MjNkZDVjODMzNjhhNmY2MTI5MWYyYWY0OTMmdXVpZD1jMTA2M2ZlMDFkNDMxMWVkOTI0Y2ZmNmFkNTA2NjFiMg
+    ```
 
-// 在进入房间前注册 App
-register({ kind: SomeApp.kind, src: SomeApp });
+4. 在根目录使用命令行运行以下命令
 
-// 进入房间后，向房间里插入 App
-// const fastboard = await createFastboard(...)
-fastboard.manager.addApp({ kind: SomeApp.kind });
-```
+    ``` sh
+    npm install
+    npm start
+    ```
 
-更多有关如何使用 Netless App（互动白板插件）可以参考 [Netless App 文档](https://github.com/netless-io/window-manager/blob/master/docs/develop-app.md)。
+    运行完成后浏览器会自动打开本地服务器URL（如果没有请手动[访问](http://localhost:3000)，默认端口为3000），此时可看到白板应用demo已启动，点击右侧工具栏最后一个按钮打开插件列表，点击其中的`Quiz`即可使用本插件~
 
-## 进一步沟通
+    ***推荐最大化插件窗口以获得最佳体验**
 
-- 在 [Issues](https://github.com/netless-io/community-apps/issues) 发起沟通。
-- 在 [声网开发者社区](https://rtcdeveloper.agora.io/c/ask/128) 发帖，发帖时选择 `“rte2022编程大赛”` 标签。
+## 快速入门 & 功能详解 & 基础操作
+
+### 见[完整文档](https://www.yuque.com/senga/ksdkss/vr74ur)
+

@@ -1,0 +1,377 @@
+.questionwrap {
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  overflow: hidden;
+  background:#fff;
+  position:absolute;
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+.common-btn {
+  padding:8px 12px;
+  margin:10px;
+  border-radius:4px;
+  color:#6fa8dc;
+  cursor:pointer;
+  border:1px solid #6fa8dc;
+  text-align:center;
+}
+.common-btn:hover {
+  color:#f00;
+  border:1px solid #f00;
+}
+
+/* 添加试题 */
+.add-ques-wrap {
+  flex:1;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display:flex;
+}
+.add-ques-ope {
+  display:flex;
+  justify-content:flex-end;
+  position:absolute;
+  bottom:0;
+  right:0;
+  left:0;
+  border-top:1px dashed #ddd;
+  height:60px;
+}
+.add-ques-btn {
+   border:1px solid #6fa8dc;;
+   color:#6fa8dc;;
+}
+
+
+
+
+
+
+
+.add-ques-item-wrap {
+   margin-bottom:60px;
+   flex:1;
+   padding:10px;
+   overflow: auto;
+}
+
+.add-ques-item-wrap .ant-input {
+  width:100%;
+}
+.add-ques-item-inner {
+  margin-bottom:10px;
+}
+.add-ques-item-inner .inner-textarea {
+  border:1px solid #ddd;
+  border-radius:4px;
+  padding:5px 10px;
+}
+
+.add-ques-item-inner .inner-textarea .ant-input {
+  border:none;
+}
+.add-ques-item-inner .inner-textarea .ant-input:focus {
+  border: none;
+  box-shadow: none;
+}
+.add-ques-item-sel-header {
+  display:flex;
+  justify-content:space-between;
+}
+.space {
+  margin-bottom:10px;
+}
+
+.add-ques-item-sel .item-tooltip {
+  color:#cfcfcf;
+  font-size:12px;
+  margin:0 10px;
+}
+.item-sel-btn {
+  font-size:24px;
+  cursor:pointer;
+}
+
+
+.add-ques-item-sel-wrap {
+   display:flex;
+   align-items:center;
+}
+.add-ques-item-sel-inner-left {
+  flex:1;
+  margin-right:10px;
+}
+.item-sel-error {
+  margin:5px 0;
+  color:#f00;
+  font-size:10px;
+}
+.add-ques-item-sel-inner {
+  border:1px solid #ddd;
+  margin-bottom:5px;
+  padding:0 5px;
+  border-radius:4px;
+  display:flex;
+  padding:10px;
+}
+.add-ques-item-sel-inner-active {
+  border:1px solid #6fa8dc;
+  margin-bottom:5px;
+  padding:0 5px;
+  border-radius:4px;
+  display:flex;
+  padding:10px;
+}
+
+.add-ques-item-sel-txt {
+  border:1px solid #ddd;
+  width:30px;
+  height:30px;
+  border-radius:100%;
+  color:#000;
+  text-align:center;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  margin-right:10px;
+  font-size:16px;
+  cursor:pointer;
+}
+.add-ques-item-sel-inner-active .add-ques-item-sel-txt{
+  background:#6fa8dc;
+  color:#fff;
+}
+.add-ques-item-sel-wrap .ant-input {
+  flex:1;
+  border:none;
+}
+
+/* 去除浏览器默认的边框 */
+textarea:focus-visible {
+  outline:none;
+}
+/* 答题 */
+.answer-wrap{
+
+}
+.answer-no-data {
+  width:100%;
+  height:100%;
+  position:relative;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  flex-direction:column;
+  font-size:56px;
+}
+.answer-no-data-txt {
+  color:#f00;
+  font-size:20px;
+  margin-top:20px;
+  position:relative;
+}
+.answer-no-data-txt:after {
+  overflow: hidden;
+  display: inline-block;
+  vertical-align: bottom;
+  animation: ellipsis 2s infinite;
+  content: "\2026"; /* ascii code for the ellipsis character */
+}
+
+@keyframes ellipsis {
+  from {
+    width: 2px;
+  }
+  to {
+      width: 15px;
+  }
+}
+
+.answer-wrap {
+  width:100%;
+  height:100%;
+  position:absolute;
+  left:0;
+  right:0;
+  bottom:0;
+  top:0;
+}
+.answer-clock-wrap {
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  width:100%;
+  height:100%;
+}
+.answer-clock {
+   font-size:48px;
+   font-weight:bold;
+   color:#f00;
+}
+
+.question-wrap{
+   padding:20px 10px; 
+   width:100%;
+   height:100%;
+}
+.question-cxt-item {
+
+}
+.question-cxt-title {
+   margin-bottom:20px;
+}
+.question-cxt-option-item {
+   border:1px solid #ddd;
+   padding:8px 12px;
+   margin:10px;
+   border-radius:4px;
+   display:flex;
+   cursor:pointer;
+}
+.question-cxt-option-item-active{
+  border:1px solid #6fa8dc;
+  padding:8px 12px;
+  margin:10px;
+  border-radius:4px;
+  display:flex;
+  cursor:pointer;
+}
+.question-cxt-option-item-wrong {
+  background:#f00;
+  padding:8px 12px;
+  margin:10px;
+  border-radius:4px;
+  display:flex;
+  cursor:pointer;
+}
+.question-cxt-option-item-correct {
+  background:#00ff00;
+  padding:8px 12px;
+  margin:10px;
+  border-radius:4px;
+  display:flex;
+  cursor:pointer;
+}
+.question-cxt-option-item-sel {
+  margin-right:10px;
+  width:40px;
+}
+.question-cxt-option-inner {
+  flex:1;
+}
+
+.question-res-wrap {
+  width:100%;
+  height:100%;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position:relative;
+}
+.question-res-btn {
+  position:absolute;
+  right:10px;
+  top:10px;
+  cursor:pointer;
+  font-size:24px;
+}
+.question-res-header {
+  margin-bottom:20px;
+  font-size:24px;
+  font-weight:bold;
+}
+.question-res-flag-wrap {
+ display:flex;
+}
+.question-res-correct {
+  width:30px;
+  height:30px;
+  border-radius:50%;
+  background:#00ff00;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  margin:5px;
+  font-weight:bold;
+}
+.question-res-wrong {
+  width:30px;
+  height:30px;
+  border-radius:50%;
+  background:#f00;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  margin:5px;
+  font-weight:bold;
+}
+.question-res-flag {
+  width:14px;
+  height:14px;
+  margin:0 10px;
+  display:inline-block;
+}
+
+.question-list {
+  display:flex;
+  padding:20px 40px;
+  flex-flow: wrap;
+}
+
+.monitor-wrap {
+  width:100%;
+  height:100%;
+}
+.monitor-table {
+  border:1px solid #ddd;
+  margin:70px 20px 20px 20px;
+}
+.monitor-table-item {
+  display:flex;
+  border-bottom:1px solid #ddd;
+}
+.monitor-table-item:first-child {
+ background:#efefef;
+}
+.monitor-table-item:last-child {
+  border-bottom:none;
+}
+.monitor-title {
+  flex:1;
+  border-right:1px solid #ddd;
+  padding:8px;
+  width:55%;
+}
+.monitor-ans {
+  padding:8px;
+  text-align:center;
+  white-space:nowrap;
+  width:15%;
+}
+.monitor-no-data {
+  width:100%;
+  text-align:center;
+  color:#ddd;
+  height: 70px;
+  line-height: 70px;
+}
+.bRight {
+  border-right:1px solid #ddd;
+}
+.monitor-table-item-last {
+  font-size:18px;
+}
+.monitor-per {
+  margin-left:10px;
+  color:#f00;
+  font-weight:bold;
+}

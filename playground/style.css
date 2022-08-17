@@ -1,0 +1,69 @@
+:root {
+  --color: #333;
+  --bg-color: #fff;
+  --bg-color2: #f6f9fc;
+}
+
+[data-theme="dark"] {
+  --color: #eee;
+  --bg-color: #302e30;
+  --bg-color2: #121212;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--bg-color2);
+}
+
+#app {
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+}
+
+#whiteboard {
+  width: 100%;
+  height: 100%;
+}
+
+#controls {
+  position: fixed;
+  top: 16px;
+  right: 16px;
+  z-index: 9999;
+  display: flex;
+  align-items: stretch;
+  gap: 16px;
+}
+
+#controls button {
+  padding: 10px;
+  color: var(--color);
+  background-color: var(--bg-color);
+  border: none;
+  border-radius: 3px;
+  box-shadow: #00000029 0 1px 4px;
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+#controls button:active {
+  box-shadow: inset #00000029 0 1px 4px;
+}
+
+.netless-window-manager-wrapper {
+  border-radius: 8px;
+  background-color: var(--bg-color);
+  box-shadow: rgb(0 0 0 / 10%) 0px 1px 5px 0px;
+}
