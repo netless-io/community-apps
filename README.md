@@ -3,12 +3,13 @@
 如果你不知道如何开始编写 Netless App，可以参考使用 [App 模版](https://github.com/netless-io/community-app-template)。
 
 ## 「RTE 2022 编程挑战赛」作品 App 列表
+> 下表的第一列，请按照格式`项目序号-团队名-作品名(仓库地址)`来填写。
 
-| 作品名(仓库地址)                                                          | 简介                                |
+| 项目序号-团队名-作品名(仓库地址)                                                          | 简介                                |
 | ------------------------------------------------------------------------- | ----------------------------------- |
-| [TicTacToe 互动小游戏](https://github.com/Leooeloel/TicTacToe/tree/react) | 基于模版开发的 TicTacToe 互动小游戏 |
-| [MidiBoard](https://github.com/CorpDreams/app-midi-board) | MidiBoard - 音乐白板: 在线协同MIDI音乐制作App |
-| [PK-Game](https://github.com/ldyjjm/community-apps/tree/pk-game) | PK-Game 基于模版开发的多人互动PK游戏 |
+| 项目0-Flat官方-[TicTacToe 互动小游戏](https://github.com/Leooeloel/TicTacToe/tree/react) | 这个官方提供的 Demo，基于模版开发的 TicTacToe 互动小游戏 |
+| 项目43-万梦聚联-[MidiBoard](https://github.com/CorpDreams/app-midi-board) | MidiBoard - 音乐白板: 在线协同MIDI音乐制作App |
+| 项目135-呆瓜小分队-[PK-Game](https://github.com/ldyjjm/community-apps/tree/pk-game) | PK-Game 基于模版开发的多人互动PK游戏 |
 
 关于[「RTE 2022 编程挑战赛」](https://www.agora.io/cn/rte-hackathon-2022)
 
