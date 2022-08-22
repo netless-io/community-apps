@@ -11,6 +11,7 @@
 | 项目43-万梦聚联-[MidiBoard](https://github.com/CorpDreams/app-midi-board) | MidiBoard - 音乐白板: 在线协同MIDI音乐制作App |
 | 项目135-呆瓜小分队-[PK-Game](https://github.com/ldyjjm/community-apps/tree/pk-game) | PK-Game 基于模版开发的多人互动PK游戏 |
 | 项目96-大音希声-[voice-less](https://github.com/AvailableForTheWorld/voice-less) | voice-less 一个可实时语言转文字的聊天应用 |
+| 项目147-温瞳-[3dClassroom](https://github.com/Soul-Stone/3dClassroom) | 3dClassroom 一个3d模型展示应用 |
 
 关于[「RTE 2022 编程挑战赛」](https://www.agora.io/cn/rte-hackathon-2022)
 
