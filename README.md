@@ -3,7 +3,9 @@
 如果你不知道如何开始编写 Netless App，可以参考使用 [App 模版](https://github.com/netless-io/community-app-template)。
 
 ## 「RTE 2022 编程挑战赛」作品 App 列表
-> 下表的第一列，请按照格式`项目序号-团队名-作品名(仓库地址)`来填写。
+> 1）下表的第一列，请按照格式`项目序号-团队名-作品名(仓库地址)`来填写。
+> 
+> 2）请按照[「场景化白板插件应用开发」赛道：作品详细提交流程](https://github.com/netless-io/community-apps/wiki/%E3%80%8C%E5%9C%BA%E6%99%AF%E5%8C%96%E7%99%BD%E6%9D%BF%E6%8F%92%E4%BB%B6%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E3%80%8D%E8%B5%9B%E9%81%93%EF%BC%9A%E4%BD%9C%E5%93%81%E8%AF%A6%E7%BB%86%E6%8F%90%E4%BA%A4%E6%B5%81%E7%A8%8B)来提交，在你的仓库中要有 README 文件，[README 撰写参考。](https://github.com/netless-io/community-apps/wiki/README-%E6%92%B0%E5%86%99%E5%8F%82%E8%80%83)
 
 | 项目序号-团队名-作品名(仓库地址)                                                          | 简介                                |
 | ------------------------------------------------------------------------- | ----------------------------------- |
