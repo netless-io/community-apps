@@ -15,7 +15,7 @@
 | 项目120-远程会议小助手-[VideoOnline](https://github.com/281690733/VideoOnline.git) | VideoOnline 可以提前布置会议模板的在线会议应用 |
 | 项目72-代码搬运工-[谁是赢家](https://github.com/emojiiii/crazygame) | 一个平平无奇的多人实时互动游戏 |
 | 项目3-云教室保洁员-[CloudOS云教室](https://github.com/kongkang/cloud-class) | 云教室是还原线下授课体验的新一代云端实操教学应用 |
-| 项目245-mumu-[flow-demo](https://github.com/mumu72738/flow-demo) | 基于Netless App Template vue的流程图协作插件. |
+| 项目245-mumu-[flow-demo](https://github.com/mumu72738/flow-demo) | 基于Netless App Template vue的流程图协作插件.|
 关于[「RTE 2022 编程挑战赛」](https://www.agora.io/cn/rte-hackathon-2022)
 
 ## 如何让你的 App 也出现在这里
