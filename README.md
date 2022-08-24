@@ -23,6 +23,7 @@
 | 项目237-飞翔的笨蛋-[Mia Piano](https://github.com/syt-honey/Piano/tree/vue) | Mia Piano：给初学者使用的在线钢琴插件 |
 | 项目246-SL-[Random](https://github.com/JSsheng/Random) | 随机抽人 |
 | 项目13-快乐星球-[成语解谜 - Chines Idiom Puzzle](https://github.com/Zhao-hangtian/happy-star) | 老少咸宜、寓教于乐的互动成语解谜游戏 |
+| 项目53-子夕听雨-[第三方笔记导入](https://github.com/lbllol365/community-app-template) | Notion 导入白板 |
 
 关于[「RTE 2022 编程挑战赛」](https://www.agora.io/cn/rte-hackathon-2022)
 
