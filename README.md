@@ -21,7 +21,7 @@
 | 项目155-xxx-[tiktik](https://github.com/ddddouleg/tiktik) | tiktik 一个简易白板节拍器 |
 | 项目186-积木-[test_blockly](https://github.com/Zasj/test_blockly/tree/vue) | test_blockly 一个在网页上运行的图形化编程工具 |
 | 项目237-飞翔的笨蛋-[Mia Piano](https://github.com/syt-honey/Piano/tree/vue) | Mia Piano：给初学者使用的在线钢琴插件 |
-
+| 项目244-YDLDS-[少儿编程demo](https://github.com/wangjiahong123/Children-programming) | 少儿编程demo:一个图形化模块化少儿编程demo |
 关于[「RTE 2022 编程挑战赛」](https://www.agora.io/cn/rte-hackathon-2022)
 
 ## 如何让你的 App 也出现在这里
