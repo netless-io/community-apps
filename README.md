@@ -21,7 +21,7 @@
 | 项目155-xxx-[tiktik](https://github.com/ddddouleg/tiktik) | tiktik 一个简易白板节拍器 |
 | 项目186-积木-[test_blockly](https://github.com/Zasj/test_blockly/tree/vue) | test_blockly 一个在网页上运行的图形化编程工具 |
 | 项目237-飞翔的笨蛋-[Mia Piano](https://github.com/syt-honey/Piano/tree/vue) | Mia Piano：给初学者使用的在线钢琴插件 |
-
+| 项目178-木斯佳-[vr-live-room](https://github.com/sakurajiajia/VR-live-room) | vr-live-room:一款可创建vr全景视频房间插件，并可展示3d模型 |
 关于[「RTE 2022 编程挑战赛」](https://www.agora.io/cn/rte-hackathon-2022)
 
 ## 如何让你的 App 也出现在这里
