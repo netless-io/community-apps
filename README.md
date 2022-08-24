@@ -19,6 +19,7 @@
 | 项目3-云教室保洁员-[CloudOS云教室](https://github.com/kongkang/cloud-class) | 云教室是还原线下授课体验的新一代云端实操教学应用 |
 | 项目245-mumu-[flow-demo](https://github.com/mumu72738/flow-demo) | 基于Netless App Template vue的流程图协作插件 |
 | 项目155-xxx-[tiktik](https://github.com/ddddouleg/tiktik) | tiktik 一个简易白板节拍器 |
+| 项目189-铭扬-[线上办公空间](https://github.com/ddddouleg/tiktik) | 线上办公空间 场景化应用 |
 
 关于[「RTE 2022 编程挑战赛」](https://www.agora.io/cn/rte-hackathon-2022)
 
