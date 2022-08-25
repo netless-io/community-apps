@@ -18,6 +18,16 @@
 | 项目72-代码搬运工-[谁是赢家](https://github.com/emojiiii/crazygame) | 一个平平无奇的多人实时互动游戏 |
 | 项目3-云教室保洁员-[CloudOS云教室](https://github.com/kongkang/cloud-class) | 云教室是还原线下授课体验的新一代云端实操教学应用 |
 | 项目245-mumu-[flow-demo](https://github.com/mumu72738/flow-demo) | 基于Netless App Template vue的流程图协作插件 |
+| 项目155-xxx-[tiktik](https://github.com/ddddouleg/tiktik) | tiktik 一个简易白板节拍器 |
+| 项目186-积木-[test_blockly](https://github.com/Zasj/test_blockly/tree/vue) | test_blockly 一个在网页上运行的图形化编程工具 |
+| 项目237-飞翔的笨蛋-[Mia Piano](https://github.com/syt-honey/Piano/tree/vue) | Mia Piano：给初学者使用的在线钢琴插件 |
+| 项目246-SL-[Random](https://github.com/JSsheng/Random) | 随机抽人 |
+| 项目13-快乐星球-[成语解谜 - Chines Idiom Puzzle](https://github.com/Zhao-hangtian/happy-star) | 老少咸宜、寓教于乐的互动成语解谜游戏 |
+| 项目53-子夕听雨-[第三方笔记导入](https://github.com/lbllol365/community-app-template) | Notion 导入白板 |
+| 项目6-鳗鱼饭-[实时问答插件](https://github.com/unagi-rice/real-time-qa)| 一个可开展实时问答活动的插件 |
+| 项目178-木斯佳-[pdf-page](https://github.com/sakurajiajia/VR-live-room) | pdf-page:一款基于多人协作的pdf查看翻页器 |
+| 项目244-YDLDS-[少儿编程demo](https://github.com/wangjiahong123/Children-programming) | 少儿编程demo:一个图形化模块化少儿编程demo |
+| 项目168-铭扬-[线上办公空间](https://github.com/lumochuan-code/community-apps-plugin.git) | 线上办公空间 场景化应用 |
 | 项目85-声临其境-[声临其境Demo](https://github.com/theforeverhope/RTE2022) | 基于Netless App Template react 的剧本杀开本工具 |
 
 关于[「RTE 2022 编程挑战赛」](https://www.agora.io/cn/rte-hackathon-2022)
