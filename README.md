@@ -27,6 +27,7 @@
 | 项目6-鳗鱼饭-[实时问答插件](https://github.com/unagi-rice/real-time-qa)| 一个可开展实时问答活动的插件 |
 | 项目178-木斯佳-[pdf-page](https://github.com/sakurajiajia/VR-live-room) | pdf-page:一款基于多人协作的pdf查看翻页器 |
 | 项目244-YDLDS-[少儿编程demo](https://github.com/wangjiahong123/Children-programming) | 少儿编程demo:一个图形化模块化少儿编程demo |
+| 项目168-铭扬-[线上办公空间](https://github.com/lumochuan-code/community-apps-plugin.git) | 线上办公空间 场景化应用 |
 
 关于[「RTE 2022 编程挑战赛」](https://www.agora.io/cn/rte-hackathon-2022)
 
