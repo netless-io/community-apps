@@ -29,6 +29,7 @@
 | 项目244-YDLDS-[少儿编程demo](https://github.com/wangjiahong123/Children-programming) | 少儿编程demo:一个图形化模块化少儿编程demo |
 | 项目168-铭扬-[线上办公空间](https://github.com/lumochuan-code/community-apps-plugin.git) | 线上办公空间 场景化应用 |
 | 项目85-声临其境-[声临其境Demo](https://github.com/theforeverhope/RTE2022) | 基于Netless App Template react 的剧本杀开本工具 |
+| 项目147-温瞳-[speech](https://github.com/Soul-Stone/speech) | 一个可以让你不在为生僻字发愁的在想朗读工具 ｜
 
 关于[「RTE 2022 编程挑战赛」](https://www.agora.io/cn/rte-hackathon-2022)
 
